@@ -6,3 +6,10 @@ An online store that sells computer games worldwide. Historical data on game sal
 - Create a user profile
 - Test hypotheses
 - Find the pattern of success.
+
+# Libraries for work
+- pandas
+- numpy
+- seaborn
+- matplotlib.pyplot
+- scipy
